@@ -1,5 +1,5 @@
 # Technician Maintenance
 
-![](image/TechSpecs1.jpg)
+![](image/Tech_Specs1.jpg)
 ![](image/Technician_Maintenance.jpg)
-![](image/TechSpecs2.jpg)
+![](image/Tech_Specs2.jpg)
